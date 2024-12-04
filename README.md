@@ -12,7 +12,7 @@ A simple Python application that allows users to play the classic "Rock, Paper, 
    ```bash  
    git clone https://github.com/yourusername/rock-paper-scissor-game.git  
    cd rock-paper-scissor-game  
-2. Create and activate a virtual environment:python -m venv env  
+2. Create and activate a virtual environment: python -m venv env  
 3. Activate the virtual environment: .\env\Scripts\activate  
 
 ## Usage
@@ -31,5 +31,4 @@ A simple Python application that allows users to play the classic "Rock, Paper, 
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome! 
 
-## 🌟 Show Your Support
-If you found this project useful, please give it a ⭐ on GitHub!
+
